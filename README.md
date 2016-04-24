@@ -2,10 +2,13 @@
 
 # THIS REPO IS DEPRECATED
 
-**WHILE THESE INSTRUCTIONS WORK IN NOW SUGGEST YOU USE THE INSTRUCTIONS IN
+**WHILE THESE INSTRUCTIONS WORK I NOW SUGGEST YOU USE THE INSTRUCTIONS IN
   [android-build-game-apk](https://github.com/sseefried/android-build-game-apk).
 **
 
+This is particularly relevant advice for those who are attending the 
+"Writing Games for Android in Haskell" workshop at LambdaJam 2016 in
+Brisbane on 28/29 April 2016.
 
 Old instructions below this line...
 
