@@ -1,5 +1,18 @@
 # Scripts to build Epidemic for Android
 
+# THIS REPO IS DEPRECATED
+
+**WHILE THESE INSTRUCTIONS WORK IN NOW SUGGEST YOU USE THE INSTRUCTIONS IN
+  [android-build-game-apk](https://github.com/sseefried/android-build-game-apk).
+**
+
+
+Old instructions below this line...
+
+----
+
+
+
 ## Introduction
 
 [Epidemic](https://github.com/sseefried/open-epidemic-game) is a game written for mobile
